@@ -5,5 +5,5 @@ https://icfpcontest2017.github.io/static/task.pdf
 * graph algorithms
 * https://github.com/lyulenkov
 * https://github.com/alekseivoroshilov
-* Saint-Petersburg Polytech University
+* Saint-Petersburg Polytechnic University
 * arena: http://kotoed.icc.spbstu.ru:50000/running
